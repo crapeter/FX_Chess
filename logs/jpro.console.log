@@ -1,0 +1,380 @@
+2023-09-17 19:36:16,563 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.jpro.activity - Starting the server
+2023-09-17 19:36:16,564 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ -  *** Starting JPro: https://www.jpro.one/ ***
+2023-09-17 19:36:16,564 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - OS: Windows 11
+2023-09-17 19:36:16,575 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JPro: 2023.2.2
+2023-09-17 19:36:16,575 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Java version: 20.0.2
+2023-09-17 19:36:16,575 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JVM: 20.0.2 Oracle Corporation
+2023-09-17 19:36:16,605 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX jar: file:/C:/Users/Craig%20Peterson/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/20.0.1.4-jpro+0/93b2ffa4971a28344568416a9a6f98f71b4108c6/javafx-graphics-20.0.1.4-jpro+0-win.jar
+2023-09-17 19:36:16,617 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Configuring logging from url: 'jar:file:/C:/Users/Craig%20Peterson/.gradle/caches/modules-2/files-2.1/com.sandec.jpro/jpro-server_2.12/2023.2.2/f63a1d190a4cf1ec33fb269ad05cdc575808366d/jpro-server_2.12-2023.2.2.jar!/logback-jpro-default.xml'
+2023-09-17 19:36:17,308 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX version: 20.0.1.4-jpro+0-2023-06-27-142942
+2023-09-17 19:36:17,378 [INFO] in scala-execution-context-global-50 - G1 Young Generation
+2023-09-17 19:36:17,379 [INFO] in scala-execution-context-global-50 - G1 Concurrent GC
+2023-09-17 19:36:17,379 [INFO] in scala-execution-context-global-67 - G1 Old Generation
+2023-09-17 19:36:17,412 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - finished init!
+2023-09-17 19:36:17,416 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - [JPro] -> Server started: {start_time: 1694997376513, os_name: Windows 11, jpro_version: 2023.2.2}
+2023-09-17 19:36:18,264 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] a.e.s.Slf4jLogger - Slf4jLogger started
+2023-09-17 19:36:19,476 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] play.api.Play - Application started (Prod) (no global state)
+2023-09-17 19:36:20,273 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Enabling HTTP/2 on Akka HTTP server...
+2023-09-17 19:36:20,274 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Listening for HTTP on /[0:0:0:0:0:0:0:0]:8080
+2023-09-17 19:36:22,256 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.jpro - application requested: default
+2023-09-17 19:36:22,268 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.jpro - Creating Application: default
+2023-09-17 19:36:22,271 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2023-09-17 19:36:22,273 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.jpro - host          localhost:8080
+2023-09-17 19:36:22,274 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.jpro - uri           /app/ws/default
+2023-09-17 19:36:22,563 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> New view is created: {app_name: default, host_name: localhost:8080, instance_id: 1723999209, browser: Opera 101.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-09-17 19:36:23,178 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> New instance is created: {app_name: default, host_name: localhost:8080, instance_id: 1723999209, browser: Opera 101.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-09-17 19:36:26,760 [INFO] in scala-execution-context-global-47 - wPawn
+2023-09-17 19:36:26,761 [INFO] in scala-execution-context-global-47 - true
+2023-09-17 19:36:26,761 [INFO] in scala-execution-context-global-47 - 6
+2023-09-17 19:36:26,761 [INFO] in scala-execution-context-global-47 - 4
+2023-09-17 19:36:27,474 [INFO] in scala-execution-context-global-50 - 
+2023-09-17 19:36:27,475 [INFO] in scala-execution-context-global-50 - -2-3-4-5-6-4-3-2
+2023-09-17 19:36:27,475 [INFO] in scala-execution-context-global-50 - -1-1-1-1-1-1-1-1
+2023-09-17 19:36:27,476 [INFO] in scala-execution-context-global-50 - 00000000
+2023-09-17 19:36:27,476 [INFO] in scala-execution-context-global-50 - 00000000
+2023-09-17 19:36:27,477 [INFO] in scala-execution-context-global-50 - 00000000
+2023-09-17 19:36:27,478 [INFO] in scala-execution-context-global-50 - 00000000
+2023-09-17 19:36:27,479 [INFO] in scala-execution-context-global-50 - 11111111
+2023-09-17 19:36:27,481 [INFO] in scala-execution-context-global-50 - 23456432
+2023-09-17 19:36:40,547 [INFO] in scala-execution-context-global-51 - wPawn
+2023-09-17 19:36:40,549 [INFO] in scala-execution-context-global-51 - true
+2023-09-17 19:36:40,550 [INFO] in scala-execution-context-global-51 - 6
+2023-09-17 19:36:40,550 [INFO] in scala-execution-context-global-51 - 2
+2023-09-17 19:36:41,338 [INFO] in scala-execution-context-global-67 - 
+2023-09-17 19:36:41,338 [INFO] in scala-execution-context-global-67 - -2-3-4-5-6-4-3-2
+2023-09-17 19:36:41,338 [INFO] in scala-execution-context-global-67 - -1-1-1-1-1-1-1-1
+2023-09-17 19:36:41,341 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-17 19:36:41,343 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-17 19:36:41,347 [INFO] in scala-execution-context-global-67 - 00100000
+2023-09-17 19:36:41,356 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-17 19:36:41,358 [INFO] in scala-execution-context-global-67 - 11011111
+2023-09-17 19:36:41,359 [INFO] in scala-execution-context-global-67 - 23456432
+2023-09-17 19:36:42,094 [INFO] in scala-execution-context-global-67 - bPawn
+2023-09-17 19:36:42,095 [INFO] in scala-execution-context-global-67 - true
+2023-09-17 19:36:42,095 [INFO] in scala-execution-context-global-67 - 1
+2023-09-17 19:36:42,095 [INFO] in scala-execution-context-global-67 - 3
+2023-09-17 19:36:42,787 [INFO] in scala-execution-context-global-67 - 
+2023-09-17 19:36:42,787 [INFO] in scala-execution-context-global-67 - -2-3-4-5-6-4-3-2
+2023-09-17 19:36:42,788 [INFO] in scala-execution-context-global-67 - -1-1-10-1-1-1-1
+2023-09-17 19:36:42,788 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-17 19:36:42,788 [INFO] in scala-execution-context-global-67 - 000-10000
+2023-09-17 19:36:42,789 [INFO] in scala-execution-context-global-67 - 00100000
+2023-09-17 19:36:42,792 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-17 19:36:42,793 [INFO] in scala-execution-context-global-67 - 11011111
+2023-09-17 19:36:42,793 [INFO] in scala-execution-context-global-67 - 23456432
+2023-09-17 19:36:43,377 [INFO] in scala-execution-context-global-67 - wPawn
+2023-09-17 19:36:43,377 [INFO] in scala-execution-context-global-67 - true
+2023-09-17 19:36:43,377 [INFO] in scala-execution-context-global-67 - 4
+2023-09-17 19:36:43,377 [INFO] in scala-execution-context-global-67 - 2
+2023-09-17 19:36:44,123 [INFO] in scala-execution-context-global-50 - White: -1
+2023-09-17 19:36:44,131 [INFO] in scala-execution-context-global-50 - 
+2023-09-17 19:36:44,132 [INFO] in scala-execution-context-global-50 - -2-3-4-5-6-4-3-2
+2023-09-17 19:36:44,133 [INFO] in scala-execution-context-global-50 - -1-1-10-1-1-1-1
+2023-09-17 19:36:44,133 [INFO] in scala-execution-context-global-50 - 00000000
+2023-09-17 19:36:44,134 [INFO] in scala-execution-context-global-50 - 00010000
+2023-09-17 19:36:44,134 [INFO] in scala-execution-context-global-50 - 00000000
+2023-09-17 19:36:44,135 [INFO] in scala-execution-context-global-50 - 00000000
+2023-09-17 19:36:44,135 [INFO] in scala-execution-context-global-50 - 11011111
+2023-09-17 19:36:44,135 [INFO] in scala-execution-context-global-50 - 23456432
+2023-09-17 19:36:45,187 [INFO] in scala-execution-context-global-68 - bPawn
+2023-09-17 19:36:45,188 [INFO] in scala-execution-context-global-68 - true
+2023-09-17 19:36:45,189 [INFO] in scala-execution-context-global-68 - 1
+2023-09-17 19:36:45,189 [INFO] in scala-execution-context-global-68 - 2
+2023-09-17 19:36:46,824 [INFO] in scala-execution-context-global-68 - 
+2023-09-17 19:36:46,825 [INFO] in scala-execution-context-global-68 - -2-3-4-5-6-4-3-2
+2023-09-17 19:36:46,825 [INFO] in scala-execution-context-global-68 - -1-100-1-1-1-1
+2023-09-17 19:36:46,826 [INFO] in scala-execution-context-global-67 - 00-100000
+2023-09-17 19:36:46,828 [INFO] in scala-execution-context-global-68 - 00010000
+2023-09-17 19:36:46,828 [INFO] in scala-execution-context-global-68 - 00000000
+2023-09-17 19:36:46,829 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-17 19:36:46,829 [INFO] in scala-execution-context-global-51 - 11011111
+2023-09-17 19:36:46,830 [INFO] in scala-execution-context-global-51 - 23456432
+2023-09-17 19:36:50,228 [INFO] in scala-execution-context-global-51 - wKnight
+2023-09-17 19:36:50,228 [INFO] in scala-execution-context-global-51 - true
+2023-09-17 19:36:50,228 [INFO] in scala-execution-context-global-51 - 7
+2023-09-17 19:36:50,228 [INFO] in scala-execution-context-global-51 - 1
+2023-09-17 19:36:51,001 [INFO] in scala-execution-context-global-51 - 
+2023-09-17 19:36:51,098 [INFO] in scala-execution-context-global-51 - -2-3-4-5-6-4-3-2
+2023-09-17 19:36:51,098 [INFO] in scala-execution-context-global-51 - -1-100-1-1-1-1
+2023-09-17 19:36:51,099 [INFO] in scala-execution-context-global-51 - 00-100000
+2023-09-17 19:36:51,099 [INFO] in scala-execution-context-global-51 - 00010000
+2023-09-17 19:36:51,099 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-17 19:36:51,099 [INFO] in scala-execution-context-global-51 - 00300000
+2023-09-17 19:36:51,099 [INFO] in scala-execution-context-global-51 - 11011111
+2023-09-17 19:36:51,099 [INFO] in scala-execution-context-global-51 - 20456432
+2023-09-17 19:36:52,675 [INFO] in scala-execution-context-global-67 - bPawn
+2023-09-17 19:36:52,676 [INFO] in scala-execution-context-global-67 - true
+2023-09-17 19:36:52,676 [INFO] in scala-execution-context-global-67 - 2
+2023-09-17 19:36:52,676 [INFO] in scala-execution-context-global-67 - 2
+2023-09-17 19:36:53,320 [INFO] in scala-execution-context-global-67 - Black: 1
+2023-09-17 19:36:53,327 [INFO] in scala-execution-context-global-67 - 
+2023-09-17 19:36:53,327 [INFO] in scala-execution-context-global-67 - -2-3-4-5-6-4-3-2
+2023-09-17 19:36:53,328 [INFO] in scala-execution-context-global-67 - -1-100-1-1-1-1
+2023-09-17 19:36:53,328 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-17 19:36:53,329 [INFO] in scala-execution-context-global-51 - 000-10000
+2023-09-17 19:36:53,329 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-17 19:36:53,329 [INFO] in scala-execution-context-global-51 - 00300000
+2023-09-17 19:36:53,329 [INFO] in scala-execution-context-global-51 - 11011111
+2023-09-17 19:36:53,330 [INFO] in scala-execution-context-global-51 - 20456432
+2023-09-17 19:36:54,061 [INFO] in scala-execution-context-global-68 - wKnight
+2023-09-17 19:36:54,062 [INFO] in scala-execution-context-global-68 - true
+2023-09-17 19:36:54,062 [INFO] in scala-execution-context-global-68 - 5
+2023-09-17 19:36:54,062 [INFO] in scala-execution-context-global-68 - 2
+2023-09-17 19:36:54,859 [INFO] in scala-execution-context-global-68 - White: -1
+2023-09-17 19:36:54,866 [INFO] in scala-execution-context-global-68 - 
+2023-09-17 19:36:54,866 [INFO] in scala-execution-context-global-68 - -2-3-4-5-6-4-3-2
+2023-09-17 19:36:54,866 [INFO] in scala-execution-context-global-68 - -1-100-1-1-1-1
+2023-09-17 19:36:54,866 [INFO] in scala-execution-context-global-68 - 00000000
+2023-09-17 19:36:54,868 [INFO] in scala-execution-context-global-68 - 00030000
+2023-09-17 19:36:54,868 [INFO] in scala-execution-context-global-68 - 00000000
+2023-09-17 19:36:54,868 [INFO] in scala-execution-context-global-68 - 00000000
+2023-09-17 19:36:54,869 [INFO] in scala-execution-context-global-68 - 11011111
+2023-09-17 19:36:54,869 [INFO] in scala-execution-context-global-68 - 20456432
+2023-09-17 19:36:55,944 [INFO] in scala-execution-context-global-67 - bQueen
+2023-09-17 19:36:55,944 [INFO] in scala-execution-context-global-67 - true
+2023-09-17 19:36:55,945 [INFO] in scala-execution-context-global-67 - 0
+2023-09-17 19:36:55,945 [INFO] in scala-execution-context-global-67 - 3
+2023-09-17 19:36:56,882 [INFO] in scala-execution-context-global-68 - Black: 3
+2023-09-17 19:36:56,889 [INFO] in scala-execution-context-global-68 - 0
+2023-09-17 19:36:56,889 [INFO] in scala-execution-context-global-68 - -1
+2023-09-17 19:36:56,890 [INFO] in scala-execution-context-global-68 - 
+2023-09-17 19:36:56,890 [INFO] in scala-execution-context-global-68 - -2-3-40-6-4-3-2
+2023-09-17 19:36:56,890 [INFO] in scala-execution-context-global-68 - -1-100-1-1-1-1
+2023-09-17 19:36:56,890 [INFO] in scala-execution-context-global-68 - 00000000
+2023-09-17 19:36:56,891 [INFO] in scala-execution-context-global-68 - 000-50000
+2023-09-17 19:36:56,891 [INFO] in scala-execution-context-global-68 - 00000000
+2023-09-17 19:36:56,891 [INFO] in scala-execution-context-global-68 - 00000000
+2023-09-17 19:36:56,892 [INFO] in scala-execution-context-global-68 - 11011111
+2023-09-17 19:36:56,892 [INFO] in scala-execution-context-global-68 - 20456432
+2023-09-17 19:36:58,973 [INFO] in scala-execution-context-global-68 - wPawn
+2023-09-17 19:36:58,973 [INFO] in scala-execution-context-global-68 - true
+2023-09-17 19:36:58,973 [INFO] in scala-execution-context-global-68 - 6
+2023-09-17 19:36:58,973 [INFO] in scala-execution-context-global-68 - 4
+2023-09-17 19:36:59,558 [INFO] in scala-execution-context-global-67 - 
+2023-09-17 19:36:59,559 [INFO] in scala-execution-context-global-67 - -2-3-40-6-4-3-2
+2023-09-17 19:36:59,559 [INFO] in scala-execution-context-global-67 - -1-100-1-1-1-1
+2023-09-17 19:36:59,559 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-17 19:36:59,559 [INFO] in scala-execution-context-global-67 - 000-50000
+2023-09-17 19:36:59,559 [INFO] in scala-execution-context-global-67 - 00001000
+2023-09-17 19:36:59,560 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-17 19:36:59,560 [INFO] in scala-execution-context-global-67 - 11010111
+2023-09-17 19:36:59,560 [INFO] in scala-execution-context-global-68 - 20456432
+2023-09-17 19:37:01,032 [INFO] in scala-execution-context-global-68 - bPawn
+2023-09-17 19:37:01,033 [INFO] in scala-execution-context-global-68 - true
+2023-09-17 19:37:01,034 [INFO] in scala-execution-context-global-68 - 1
+2023-09-17 19:37:01,034 [INFO] in scala-execution-context-global-68 - 6
+2023-09-17 19:37:01,536 [INFO] in scala-execution-context-global-51 - 
+2023-09-17 19:37:01,536 [INFO] in scala-execution-context-global-51 - -2-3-40-6-4-3-2
+2023-09-17 19:37:01,537 [INFO] in scala-execution-context-global-68 - -1-100-1-10-1
+2023-09-17 19:37:01,537 [INFO] in scala-execution-context-global-68 - 000000-10
+2023-09-17 19:37:01,537 [INFO] in scala-execution-context-global-68 - 000-50000
+2023-09-17 19:37:01,537 [INFO] in scala-execution-context-global-68 - 00001000
+2023-09-17 19:37:01,537 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-17 19:37:01,537 [INFO] in scala-execution-context-global-51 - 11010111
+2023-09-17 19:37:01,537 [INFO] in scala-execution-context-global-51 - 20456432
+2023-09-17 19:37:02,361 [INFO] in scala-execution-context-global-51 - wPawn
+2023-09-17 19:37:02,361 [INFO] in scala-execution-context-global-51 - true
+2023-09-17 19:37:02,361 [INFO] in scala-execution-context-global-51 - 4
+2023-09-17 19:37:02,361 [INFO] in scala-execution-context-global-51 - 4
+2023-09-17 19:37:02,974 [INFO] in scala-execution-context-global-50 - White: -5
+2023-09-17 19:37:02,980 [INFO] in scala-execution-context-global-50 - 
+2023-09-17 19:37:02,980 [INFO] in scala-execution-context-global-50 - -2-3-40-6-4-3-2
+2023-09-17 19:37:02,980 [INFO] in scala-execution-context-global-50 - -1-100-1-10-1
+2023-09-17 19:37:02,980 [INFO] in scala-execution-context-global-50 - 000000-10
+2023-09-17 19:37:02,981 [INFO] in scala-execution-context-global-67 - 00010000
+2023-09-17 19:37:02,981 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-17 19:37:02,981 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-17 19:37:02,981 [INFO] in scala-execution-context-global-67 - 11010111
+2023-09-17 19:37:02,981 [INFO] in scala-execution-context-global-67 - 20456432
+2023-09-17 19:47:54,849 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.jpro.activity - Starting the server
+2023-09-17 19:47:54,850 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ -  *** Starting JPro: https://www.jpro.one/ ***
+2023-09-17 19:47:54,851 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - OS: Windows 11
+2023-09-17 19:47:54,863 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JPro: 2023.2.2
+2023-09-17 19:47:54,863 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Java version: 20.0.2
+2023-09-17 19:47:54,863 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JVM: 20.0.2 Oracle Corporation
+2023-09-17 19:47:54,878 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX jar: file:/C:/Users/Craig%20Peterson/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/20.0.1.4-jpro+0/93b2ffa4971a28344568416a9a6f98f71b4108c6/javafx-graphics-20.0.1.4-jpro+0-win.jar
+2023-09-17 19:47:54,886 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Configuring logging from url: 'jar:file:/C:/Users/Craig%20Peterson/.gradle/caches/modules-2/files-2.1/com.sandec.jpro/jpro-server_2.12/2023.2.2/f63a1d190a4cf1ec33fb269ad05cdc575808366d/jpro-server_2.12-2023.2.2.jar!/logback-jpro-default.xml'
+2023-09-17 19:47:55,391 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX version: 20.0.1.4-jpro+0-2023-06-27-142942
+2023-09-17 19:47:55,455 [INFO] in scala-execution-context-global-50 - G1 Young Generation
+2023-09-17 19:47:55,455 [INFO] in scala-execution-context-global-50 - G1 Concurrent GC
+2023-09-17 19:47:55,456 [INFO] in scala-execution-context-global-50 - G1 Old Generation
+2023-09-17 19:47:55,488 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - finished init!
+2023-09-17 19:47:55,493 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - [JPro] -> Server started: {start_time: 1694998074797, os_name: Windows 11, jpro_version: 2023.2.2}
+2023-09-17 19:47:56,262 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] a.e.s.Slf4jLogger - Slf4jLogger started
+2023-09-17 19:47:57,107 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] play.api.Play - Application started (Prod) (no global state)
+2023-09-17 19:47:57,795 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Enabling HTTP/2 on Akka HTTP server...
+2023-09-17 19:47:57,796 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Listening for HTTP on /[0:0:0:0:0:0:0:0]:8080
+2023-09-17 19:47:59,100 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - application requested: default
+2023-09-17 19:47:59,110 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - Creating Application: default
+2023-09-17 19:47:59,113 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2023-09-17 19:47:59,115 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - host          localhost:8080
+2023-09-17 19:47:59,115 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - uri           /app/ws/default
+2023-09-17 19:47:59,429 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> New view is created: {app_name: default, host_name: localhost:8080, instance_id: 174856204, browser: Opera 101.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-09-17 19:47:59,947 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> New instance is created: {app_name: default, host_name: localhost:8080, instance_id: 174856204, browser: Opera 101.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-09-17 19:48:07,947 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - 
+2023-09-17 19:48:07,947 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed:
+2023-09-17 19:48:07,956 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Sun Sep 17 19:48:07 CDT 2023      
+2023-09-17 19:48:07,956 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.003 
+2023-09-17 19:48:07,956 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.000  
+2023-09-17 19:48:07,956 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2023-09-17 19:48:07,967 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2023-09-17 19:48:07,968 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 149438
+2023-09-17 19:48:07,969 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 19671
+2023-09-17 19:48:07,969 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - 
+2023-09-17 19:48:07,970 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View is closed: {app_name: default, host_name: localhost:8080, instance_id: 174856204, browser: Opera 101.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: tab closed}
+2023-09-17 19:48:15,675 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance is closed: {app_name: default, host_name: Unknown, instance_id: 174856204, browser: Unknown, browser_url: , client_ip: , reason: no-views}
+2023-09-17 20:04:49,578 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.jpro.activity - Starting the server
+2023-09-17 20:04:49,579 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ -  *** Starting JPro: https://www.jpro.one/ ***
+2023-09-17 20:04:49,579 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - OS: Windows 11
+2023-09-17 20:04:49,604 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JPro: 2023.2.2
+2023-09-17 20:04:49,604 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Java version: 20.0.2
+2023-09-17 20:04:49,604 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JVM: 20.0.2 Oracle Corporation
+2023-09-17 20:04:49,609 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX jar: file:/C:/Users/Craig%20Peterson/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/20.0.1.4-jpro+0/93b2ffa4971a28344568416a9a6f98f71b4108c6/javafx-graphics-20.0.1.4-jpro+0-win.jar
+2023-09-17 20:04:49,617 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Configuring logging from url: 'jar:file:/C:/Users/Craig%20Peterson/.gradle/caches/modules-2/files-2.1/com.sandec.jpro/jpro-server_2.12/2023.2.2/f63a1d190a4cf1ec33fb269ad05cdc575808366d/jpro-server_2.12-2023.2.2.jar!/logback-jpro-default.xml'
+2023-09-17 20:04:50,151 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX version: 20.0.1.4-jpro+0-2023-06-27-142942
+2023-09-17 20:04:50,224 [INFO] in scala-execution-context-global-50 - G1 Young Generation
+2023-09-17 20:04:50,225 [INFO] in scala-execution-context-global-50 - G1 Concurrent GC
+2023-09-17 20:04:50,225 [INFO] in scala-execution-context-global-67 - G1 Old Generation
+2023-09-17 20:04:50,260 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - finished init!
+2023-09-17 20:04:50,265 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - [JPro] -> Server started: {start_time: 1694999089552, os_name: Windows 11, jpro_version: 2023.2.2}
+2023-09-17 20:04:51,005 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] a.e.s.Slf4jLogger - Slf4jLogger started
+2023-09-17 20:04:51,958 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] play.api.Play - Application started (Prod) (no global state)
+2023-09-17 20:04:52,697 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Enabling HTTP/2 on Akka HTTP server...
+2023-09-17 20:04:52,698 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Listening for HTTP on /[0:0:0:0:0:0:0:0]:8080
+2023-09-17 20:04:53,952 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - application requested: default
+2023-09-17 20:04:53,961 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - Creating Application: default
+2023-09-17 20:04:53,966 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2023-09-17 20:04:53,968 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - host          localhost:8080
+2023-09-17 20:04:53,968 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.jpro - uri           /app/ws/default
+2023-09-17 20:04:54,225 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> New view is created: {app_name: default, host_name: localhost:8080, instance_id: 1601908966, browser: Opera 101.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-09-17 20:04:54,700 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> New instance is created: {app_name: default, host_name: localhost:8080, instance_id: 1601908966, browser: Opera 101.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-09-17 20:05:00,031 [INFO] in scala-execution-context-global-51 - wKnight
+2023-09-17 20:05:00,032 [INFO] in scala-execution-context-global-51 - true
+2023-09-17 20:05:00,032 [INFO] in scala-execution-context-global-51 - 7
+2023-09-17 20:05:00,032 [INFO] in scala-execution-context-global-51 - 6
+2023-09-17 20:05:00,738 [INFO] in scala-execution-context-global-47 - 
+2023-09-17 20:05:00,738 [INFO] in scala-execution-context-global-47 - -2-3-4-5-6-4-3-2
+2023-09-17 20:05:00,739 [INFO] in scala-execution-context-global-47 - -1-1-1-1-1-1-1-1
+2023-09-17 20:05:00,739 [INFO] in scala-execution-context-global-47 - 00000000
+2023-09-17 20:05:00,739 [INFO] in scala-execution-context-global-47 - 00000000
+2023-09-17 20:05:00,740 [INFO] in scala-execution-context-global-47 - 00000000
+2023-09-17 20:05:00,742 [INFO] in scala-execution-context-global-47 - 00000300
+2023-09-17 20:05:00,743 [INFO] in scala-execution-context-global-47 - 11111111
+2023-09-17 20:05:00,743 [INFO] in scala-execution-context-global-47 - 23456402
+2023-09-17 20:08:43,942 [INFO] in scala-execution-context-global-47 - Game is over... restarting
+2023-09-17 20:08:45,197 [INFO] in scala-execution-context-global-51 - Game isn't over
+2023-09-17 20:08:59,077 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - 
+2023-09-17 20:08:59,079 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed:
+2023-09-17 20:08:59,096 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Sun Sep 17 20:08:59 CDT 2023      
+2023-09-17 20:08:59,096 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.001 
+2023-09-17 20:08:59,096 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.000  
+2023-09-17 20:08:59,101 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2023-09-17 20:08:59,103 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2023-09-17 20:08:59,103 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 561556
+2023-09-17 20:08:59,103 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 125140
+2023-09-17 20:08:59,104 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - 
+2023-09-17 20:08:59,111 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View is closed: {app_name: default, host_name: localhost:8080, instance_id: 1601908966, browser: Opera 101.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: tab closed}
+2023-09-17 20:10:24,860 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> Instance is closed: {app_name: default, host_name: Unknown, instance_id: 1601908966, browser: Unknown, browser_url: , client_ip: , reason: no-views}
+2023-09-18 13:51:06,469 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.jpro.activity - Starting the server
+2023-09-18 13:51:06,470 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ -  *** Starting JPro: https://www.jpro.one/ ***
+2023-09-18 13:51:06,470 [INFO] in scala-execution-context-global-50 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - OS: Windows 11
+2023-09-18 13:51:06,487 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JPro: 2023.2.2
+2023-09-18 13:51:06,488 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Java version: 20.0.2
+2023-09-18 13:51:06,488 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JVM: 20.0.2 Oracle Corporation
+2023-09-18 13:51:06,497 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX jar: file:/C:/Users/Craig%20Peterson/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/20.0.1.4-jpro+0/93b2ffa4971a28344568416a9a6f98f71b4108c6/javafx-graphics-20.0.1.4-jpro+0-win.jar
+2023-09-18 13:51:06,510 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - Configuring logging from url: 'jar:file:/C:/Users/Craig%20Peterson/.gradle/caches/modules-2/files-2.1/com.sandec.jpro/jpro-server_2.12/2023.2.2/f63a1d190a4cf1ec33fb269ad05cdc575808366d/jpro-server_2.12-2023.2.2.jar!/logback-jpro-default.xml'
+2023-09-18 13:51:07,256 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - JavaFX version: 20.0.1.4-jpro+0-2023-06-27-142942
+2023-09-18 13:51:07,349 [INFO] in scala-execution-context-global-50 - G1 Young Generation
+2023-09-18 13:51:07,349 [INFO] in scala-execution-context-global-50 - G1 Concurrent GC
+2023-09-18 13:51:07,349 [INFO] in scala-execution-context-global-50 - G1 Old Generation
+2023-09-18 13:51:07,383 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - finished init!
+2023-09-18 13:51:07,388 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.JProInitializer$ - [JPro] -> Server started: {start_time: 1695063066433, os_name: Windows 11, jpro_version: 2023.2.2}
+2023-09-18 13:51:08,250 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] a.e.s.Slf4jLogger - Slf4jLogger started
+2023-09-18 13:51:09,307 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] play.api.Play - Application started (Prod) (no global state)
+2023-09-18 13:51:10,210 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Enabling HTTP/2 on Akka HTTP server...
+2023-09-18 13:51:10,211 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] p.c.s.AkkaHttpServer - Listening for HTTP on /[0:0:0:0:0:0:0:0]:8080
+2023-09-18 13:51:19,768 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.jpro - application requested: default
+2023-09-18 13:51:19,785 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.jpro - Creating Application: default
+2023-09-18 13:51:19,788 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2023-09-18 13:51:19,792 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.jpro - host          localhost:8080
+2023-09-18 13:51:19,792 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.jpro - uri           /app/ws/default
+2023-09-18 13:51:20,304 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> New view is created: {app_name: default, host_name: localhost:8080, instance_id: 1480103511, browser: Opera 102.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-09-18 13:51:21,195 [INFO] in scala-execution-context-global-47 - [[34mINFO [0;39m] c.j.i.c.InstanceImpl - [JPro] -> New instance is created: {app_name: default, host_name: localhost:8080, instance_id: 1480103511, browser: Opera 102.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1}
+2023-09-18 13:51:26,407 [INFO] in scala-execution-context-global-51 - wPawn
+2023-09-18 13:51:26,408 [INFO] in scala-execution-context-global-51 - true
+2023-09-18 13:51:26,408 [INFO] in scala-execution-context-global-51 - 6
+2023-09-18 13:51:26,408 [INFO] in scala-execution-context-global-51 - 3
+2023-09-18 13:51:27,218 [INFO] in scala-execution-context-global-51 - 
+2023-09-18 13:51:27,218 [INFO] in scala-execution-context-global-51 - -2-3-4-5-6-4-3-2
+2023-09-18 13:51:27,219 [INFO] in scala-execution-context-global-51 - -1-1-1-1-1-1-1-1
+2023-09-18 13:51:27,219 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-18 13:51:27,219 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-18 13:51:27,219 [INFO] in scala-execution-context-global-51 - 00010000
+2023-09-18 13:51:27,221 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-18 13:51:27,221 [INFO] in scala-execution-context-global-51 - 11101111
+2023-09-18 13:51:27,221 [INFO] in scala-execution-context-global-51 - 23456432
+2023-09-18 13:51:28,140 [INFO] in scala-execution-context-global-51 - bPawn
+2023-09-18 13:51:28,140 [INFO] in scala-execution-context-global-51 - true
+2023-09-18 13:51:28,140 [INFO] in scala-execution-context-global-51 - 1
+2023-09-18 13:51:28,140 [INFO] in scala-execution-context-global-51 - 4
+2023-09-18 13:51:28,832 [INFO] in scala-execution-context-global-68 - 
+2023-09-18 13:51:28,832 [INFO] in scala-execution-context-global-68 - -2-3-4-5-6-4-3-2
+2023-09-18 13:51:28,832 [INFO] in scala-execution-context-global-68 - -1-1-1-10-1-1-1
+2023-09-18 13:51:28,834 [INFO] in scala-execution-context-global-68 - 00000000
+2023-09-18 13:51:28,835 [INFO] in scala-execution-context-global-68 - 0000-1000
+2023-09-18 13:51:28,837 [INFO] in scala-execution-context-global-68 - 00010000
+2023-09-18 13:51:28,838 [INFO] in scala-execution-context-global-68 - 00000000
+2023-09-18 13:51:28,839 [INFO] in scala-execution-context-global-68 - 11101111
+2023-09-18 13:51:28,840 [INFO] in scala-execution-context-global-68 - 23456432
+2023-09-18 13:51:29,451 [INFO] in scala-execution-context-global-51 - wPawn
+2023-09-18 13:51:29,451 [INFO] in scala-execution-context-global-51 - true
+2023-09-18 13:51:29,452 [INFO] in scala-execution-context-global-51 - 4
+2023-09-18 13:51:29,452 [INFO] in scala-execution-context-global-51 - 3
+2023-09-18 13:51:30,095 [INFO] in scala-execution-context-global-51 - White: -1
+2023-09-18 13:51:30,102 [INFO] in scala-execution-context-global-51 - 
+2023-09-18 13:51:30,102 [INFO] in scala-execution-context-global-51 - -2-3-4-5-6-4-3-2
+2023-09-18 13:51:30,103 [INFO] in scala-execution-context-global-51 - -1-1-1-10-1-1-1
+2023-09-18 13:51:30,103 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-18 13:51:30,104 [INFO] in scala-execution-context-global-51 - 00001000
+2023-09-18 13:51:30,104 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-18 13:51:30,104 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-18 13:51:30,106 [INFO] in scala-execution-context-global-51 - 11101111
+2023-09-18 13:51:30,107 [INFO] in scala-execution-context-global-51 - 23456432
+2023-09-18 13:51:32,105 [INFO] in scala-execution-context-global-68 - bPawn
+2023-09-18 13:51:32,105 [INFO] in scala-execution-context-global-68 - true
+2023-09-18 13:51:32,105 [INFO] in scala-execution-context-global-68 - 1
+2023-09-18 13:51:32,105 [INFO] in scala-execution-context-global-68 - 3
+2023-09-18 13:51:32,751 [INFO] in scala-execution-context-global-51 - 
+2023-09-18 13:51:32,752 [INFO] in scala-execution-context-global-51 - -2-3-4-5-6-4-3-2
+2023-09-18 13:51:32,752 [INFO] in scala-execution-context-global-51 - -1-1-100-1-1-1
+2023-09-18 13:51:32,753 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-18 13:51:32,754 [INFO] in scala-execution-context-global-51 - 000-11000
+2023-09-18 13:51:32,754 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-18 13:51:32,754 [INFO] in scala-execution-context-global-51 - 00000000
+2023-09-18 13:51:32,754 [INFO] in scala-execution-context-global-51 - 11101111
+2023-09-18 13:51:32,754 [INFO] in scala-execution-context-global-51 - 23456432
+2023-09-18 13:51:33,238 [INFO] in scala-execution-context-global-68 - true
+2023-09-18 13:51:33,239 [INFO] in scala-execution-context-global-68 - wPawn
+2023-09-18 13:51:33,239 [INFO] in scala-execution-context-global-68 - true
+2023-09-18 13:51:33,239 [INFO] in scala-execution-context-global-68 - 3
+2023-09-18 13:51:33,239 [INFO] in scala-execution-context-global-68 - 4
+2023-09-18 13:51:34,017 [INFO] in scala-execution-context-global-67 - 
+2023-09-18 13:51:34,018 [INFO] in scala-execution-context-global-67 - -2-3-4-5-6-4-3-2
+2023-09-18 13:51:34,018 [INFO] in scala-execution-context-global-67 - -1-1-100-1-1-1
+2023-09-18 13:51:34,018 [INFO] in scala-execution-context-global-67 - 00010000
+2023-09-18 13:51:34,018 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-18 13:51:34,018 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-18 13:51:34,019 [INFO] in scala-execution-context-global-67 - 00000000
+2023-09-18 13:51:34,019 [INFO] in scala-execution-context-global-67 - 11101111
+2023-09-18 13:51:34,019 [INFO] in scala-execution-context-global-67 - 23456432
+2023-09-18 13:51:36,241 [INFO] in scala-execution-context-global-67 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - 
+2023-09-18 13:51:36,241 [INFO] in scala-execution-context-global-67 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - Application closed:
+2023-09-18 13:51:36,252 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - startTime      : Mon Sep 18 13:51:36 CDT 2023      
+2023-09-18 13:51:36,252 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.001 
+2023-09-18 13:51:36,252 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.000  
+2023-09-18 13:51:36,252 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2023-09-18 13:51:36,254 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2023-09-18 13:51:36,254 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - raw            : 322575
+2023-09-18 13:51:36,254 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - zipped         : 69658
+2023-09-18 13:51:36,254 [INFO] in scala-execution-context-global-68 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - 
+2023-09-18 13:51:36,256 [INFO] in scala-execution-context-global-51 - [[34mINFO [0;39m] c.j.i.s.ViewInfo$ - [JPro] -> View is closed: {app_name: default, host_name: localhost:8080, instance_id: 1480103511, browser: Opera 102.0.0.0, browser_url: http://localhost:8080/, client_ip: 0:0:0:0:0:0:0:1, reason: tab closed}
