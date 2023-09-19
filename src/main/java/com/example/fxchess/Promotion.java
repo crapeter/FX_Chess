@@ -56,10 +56,10 @@ public class Promotion {
       ImageView prImageView = controller.getImageViewFromStackPane(prStackPane);
       if (prImageView != null) {
         if (controller.currentlyWhite){
-          prImageView.setImage(new Image("/assets/Black Queen.png"));
+          prImageView.setImage(new Image(Objects.requireNonNull(getClass().getResource("/assets/Black Queen.png")).toString()));
           controller.board[r][c] = -5;
         } else {
-          prImageView.setImage(new Image("/assets/White Queen.png"));
+          prImageView.setImage(new Image(Objects.requireNonNull(getClass().getResource("/assets/White Queen.png")).toString()));
           controller.board[r][c] = 5;
         }
         controller.board[controller.location[0]][controller.location[1]] = 0;
@@ -71,10 +71,10 @@ public class Promotion {
       ImageView prImageView = controller.getImageViewFromStackPane(prStackPane);
       if (prImageView != null) {
         if (controller.currentlyWhite){
-          prImageView.setImage(new Image("/assets/Black Rook.png"));
+          prImageView.setImage(new Image(Objects.requireNonNull(getClass().getResource("/assets/Black Rook.png")).toString()));
           controller.board[r][c] = -2;
         } else {
-          prImageView.setImage(new Image("/assets/White Rook.png"));
+          prImageView.setImage(new Image(Objects.requireNonNull(getClass().getResource("/assets/White Rook.png")).toString()));
           controller.board[r][c] = 2;
         }
         controller.board[controller.location[0]][controller.location[1]] = 0;
@@ -86,10 +86,10 @@ public class Promotion {
       ImageView prImageView = controller.getImageViewFromStackPane(prStackPane);
       if (prImageView != null) {
         if (controller.currentlyWhite){
-          prImageView.setImage(new Image("/assets/Black Knight.png"));
+          prImageView.setImage(new Image(Objects.requireNonNull(getClass().getResource("/assets/Black Knight.png")).toString()));
           controller.board[r][c] = -3;
         } else {
-          prImageView.setImage(new Image("/assets/White Knight.png"));
+          prImageView.setImage(new Image(Objects.requireNonNull(getClass().getResource("/assets/White Knight.png")).toString()));
           controller.board[r][c] = 3;
         }
         controller.board[controller.location[0]][controller.location[1]] = 0;
@@ -101,10 +101,10 @@ public class Promotion {
       ImageView prImageView = controller.getImageViewFromStackPane(prStackPane);
       if (prImageView != null) {
         if (controller.currentlyWhite){
-          prImageView.setImage(new Image("/assets/Black Bishop.png"));
+          prImageView.setImage(new Image(Objects.requireNonNull(getClass().getResource("/assets/Black Bishop.png")).toString()));
           controller.board[r][c] = -4;
         } else {
-          prImageView.setImage(new Image("/assets/White Bishop.png"));
+          prImageView.setImage(new Image(Objects.requireNonNull(getClass().getResource("/assets/White Bishop.png")).toString()));
           controller.board[r][c] = 4;
         }
         controller.board[controller.location[0]][controller.location[1]] = 0;
