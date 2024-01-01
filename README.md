@@ -1,0 +1,1 @@
+I rewrote chess in javaFX in hopes of being able to access this in the web using jpro for my portfolio website. That didn't work but I still rewrote everything, so if you want to compare between swing and FX feel free do, they're very different in how I set up the board. 
